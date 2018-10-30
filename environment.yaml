@@ -1,0 +1,28 @@
+# conda environment description file for Doug's MIDOSS MOHID analysis
+# environment
+#
+# Create a conda environment for analysis of the Salish Sea MIDOSS
+# project MOHID model results with:
+#
+#    $ conda env create -f analysis-doug/environment.yaml
+
+name: mohid-analysis
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - arrow
+  - black
+  - bottleneck
+  - cmocean
+  - h5netcdf
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - pynio
+  - python=3
+  - scipy
+  - xarray
