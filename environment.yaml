@@ -17,12 +17,11 @@ dependencies:
   - black
   - bottleneck
   - cmocean
-  - h5netcdf
   - jupyterlab
   - matplotlib
   - numpy
   - pip
-  - pynio
+  - pytables
   - python=3
   - scipy
   - xarray
