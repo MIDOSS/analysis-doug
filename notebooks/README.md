@@ -7,6 +7,18 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
+* ##[MOHID-HDF5-to-xarray.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/midos/analysis-doug/raw/default/notebooks/MOHID-HDF5-to-xarray.ipynb)  
+    
+    **Development of HDF5 to `xarray.Dataset` Transformation**  
+      
+    Goal:  
+      
+    * Use [PyTables](https://www.pytables.org/index.html)  
+    to transform contents of MOHID Lagrangian output file  
+    into an [`xarray.Dataset`](http://xarray.pydata.org/en/stable/api.html#dataset) object  
+      
+    This is the development notebook for the `moad_tools.midoss.hdf5_to_xarray()` function.  
+
 * ##[MOHID-hdf5Files.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/midos/analysis-doug/raw/default/notebooks/MOHID-hdf5Files.ipynb)  
     
     **Explore MODHID hdf5 Files**  
