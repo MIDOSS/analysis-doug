@@ -19,6 +19,7 @@ dependencies:
   - cmocean
   - jupyterlab
   - matplotlib
+  - netcdf4
   - numpy
   - pip
   - pytables
