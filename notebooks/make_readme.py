@@ -39,7 +39,7 @@ Descriptions below the links are from the first cell of the notebooks
 """
 notebooks = (fn for fn in os.listdir("./") if fn.endswith("ipynb"))
 for fn in notebooks:
-    readme += f"* ##[{fn}]({url}/{fn})  \n    \n"
+    readme += f"* ## [{fn}]({url}/{fn})  \n    \n"
     with open(fn, "rt") as notebook:
         contents = json.load(notebook)
     try:
