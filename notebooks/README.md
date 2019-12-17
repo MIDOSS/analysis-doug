@@ -7,7 +7,7 @@ The links below are to static renderings of the notebooks via
 Descriptions below the links are from the first cell of the notebooks
 (if that cell contains Markdown or raw text).
 
-* ##[MOHID-HDF5-to-xarray.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/midoss/analysis-doug/raw/default/notebooks/MOHID-HDF5-to-xarray.ipynb)
+* ## [MOHID-HDF5-to-xarray.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/midoss/analysis-doug/raw/default/notebooks/MOHID-HDF5-to-xarray.ipynb)
 
     **Development of HDF5 to `xarray.Dataset` Transformation**
 
@@ -19,7 +19,7 @@ Descriptions below the links are from the first cell of the notebooks
 
     This is the development notebook for the `moad_tools.midoss.hdf5_to_xarray()` function.
 
-* ##[MOHID-hdf5Files.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/midoss/analysis-doug/raw/default/notebooks/MOHID-hdf5Files.ipynb)
+* ## [MOHID-hdf5Files.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/midoss/analysis-doug/raw/default/notebooks/MOHID-hdf5Files.ipynb)
 
     **Explore MODHID hdf5 Files**
 
@@ -54,7 +54,7 @@ Descriptions below the links are from the first cell of the notebooks
 
     * Write code to transform PyTables `tables.File` objects into `xarray.Dataset` objects.
 
-* ##[CompareLagrangians.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/midoss/analysis-doug/raw/default/notebooks/CompareLagrangians.ipynb)
+* ## [CompareLagrangians.ipynb](https://nbviewer.jupyter.org/urls/bitbucket.org/midoss/analysis-doug/raw/default/notebooks/CompareLagrangians.ipynb)
 
     **Compare Lagrangian Results Files Between MIDOSS-MOHID Runs**
 
